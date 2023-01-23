@@ -1,2 +1,2 @@
-# Tack4
+# tack4
 Checking a word for "Palindrome".
